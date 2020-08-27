@@ -6,4 +6,6 @@
 
 Because the code structure of the `script` project is cool.
 
-Basic use `source` => `filter` => `sink` to monitor the linux scrip
+Basic use `source` => `filter` => `sink` to monitor the linux script
+
+And Pipe is used to transfer data between them.
